@@ -1,0 +1,14 @@
+{
+  "name": "kyte-staking-pool",
+  "private": true,
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test",
+    "fmt": "forge fmt"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "5.6.1",
+    "@uniswap/v4-core": "1.0.2",
+    "forge-std": "github:foundry-rs/forge-std#v1.11.0"
+  }
+}

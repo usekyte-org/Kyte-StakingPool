@@ -1,0 +1,4 @@
+@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+forge-std/=node_modules/forge-std/src/
+@uniswap/v4-core/=node_modules/@uniswap/v4-core/
+solmate/=node_modules/@uniswap/v4-core/lib/solmate/
